@@ -11,3 +11,6 @@
 Note:
 - Not the standard tech talk.
 - Thank you to both attendees and GDG organizers.
+
+---
+

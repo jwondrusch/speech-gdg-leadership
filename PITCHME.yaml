@@ -36,6 +36,6 @@ highlight : monokai
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "The Serverless Startup"
-description : "Scaling Ideas, Fast and Easy, using Serverless and JAMStack."
+title : "Personal Leadership for Software Developers"
+description : ""
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
