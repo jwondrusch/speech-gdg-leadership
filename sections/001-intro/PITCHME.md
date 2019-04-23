@@ -22,7 +22,9 @@ Note:
 
 ---
 
+@snap[span-100]
 > "Buddhist tradition describes three styles of compassionate leadership: the trailblazer, who leads from the front, takes risks, and sets an example; the ferryman, who accompanies those in his care and shapes the ups and downs of the crossing; and the shepherd, who sees every one of his flock into safety before himself."
+@snapend
 
 ---
 
