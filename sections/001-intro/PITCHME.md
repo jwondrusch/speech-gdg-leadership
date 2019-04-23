@@ -14,11 +14,50 @@ Note:
 
 ---
 
+## Personal Leadership vs Technical Leadership
+
+---
+
 ## Everyone's Responsibility
 
 ---
 
 ## What Is Leadership?
+
+---
+
+### According to Google
+
+> the action of leading a group of people or an organization.
+
+---
+
+## What Leadership Isn't
+
+- Managing
+- Getting Your Way All The Time
+- Being Perfect
+
+---
+
+The ability to influence and empower those around you to do their best work in support of a shared goal.
+
+---
+
+## What Leadership Is
+
+@snap[midpoint span-100]
+### Caring
+### Vision
+### Execution
+@snapend
+
+---
+
+## Different Forms of Leadership
+
+Note:
+- All shapes and sizes, from all positions in an organization.
 
 ---
 
@@ -28,17 +67,14 @@ Note:
 
 ---
 
+The ability to influence and empower those around you to do their best work in support of a shared goal.
+
+---
+
 @snap[span-100]
 ## Three Elements of Leadership
 @snapend
 
----
-
-@snap[midpoint span-100]
-### Caring
-### Vision
-### Execution
-@snapend
 
 ---
 
