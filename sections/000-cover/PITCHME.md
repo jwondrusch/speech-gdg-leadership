@@ -7,3 +7,7 @@
 #### @css[text-06](by **Jonathan Wondrusch**)
 @css[text-04](@jwondrusch)
 @snapend
+
+Note:
+- Not the standard tech talk.
+- Thank you to both attendees and GDG organizers.
