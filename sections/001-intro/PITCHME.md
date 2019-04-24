@@ -14,6 +14,7 @@ Note:
 - Exernal motivations:
 - Intrinsic motivation: What do you actually want to talk about? What gets you excited
 - Hard time coming up with a technical talk that I _really_ wanted to give.
+- Was stuck until I got some excellent advice from my wife...
 
 ---
 
@@ -22,6 +23,9 @@ Note:
 
 # Speak What You Know
 @snapend
+
+Note:
+- As a non-fiction writer, she was very good at this.
 
 ---
 
@@ -33,18 +37,23 @@ Note:
 <li>Many things code.</li>
 </ul>
 
-**Leadership.**
+Most Meaningful: **Leadership**
+
+Note:
+- Through all the successes and failures, what stood out the most was leadership.
+- But the talk isn't just for me, right? It's for all of you here.
 
 ---
 
 # A Talk for Everyone
 
-### All Experience Levels Welcome
+### All Levels Welcome
 
 Note:
-- Lead from Anywhere - not as trite as it sounds.
+- Lead from Anywhere.
 - If you're willing to take responsibility and ownership.
 - Don't "change the world." Change your team and your community.
+- And whether we do or don't acknowledge it, it affects us as devs.
 
 ---
 
@@ -59,13 +68,14 @@ Note:
 
 ---
 
-# Thank You
+## Thank You
 
 Note:
 - Thanks to GDG Organizers for being open to the talk.
-- Thanks to everyone who came out to a non-technical talk.
+- Thanks to everyone who came out to a non-technical talk and for listening
 
 ---
+
 # My Leadership Journey
 
 ---?image=assets/img/books.jpg&size=cover
@@ -84,11 +94,14 @@ Note:
 
 Note:
 - Strongest example of leadership is from Jr Developer.
-- Follow up
+- Lesser example is my follow up.
 
 ---
 
 # What Is <u>Leadership</u>?
+
+Note:
+- Alright, let's start actually exploring leadership.
 
 ---
 
